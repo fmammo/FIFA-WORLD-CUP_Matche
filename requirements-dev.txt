@@ -1,0 +1,6 @@
+pandas   version
+numpy
+matplotlib
+seaborn
+plotly
+Cufflinks 
