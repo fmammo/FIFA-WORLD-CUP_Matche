@@ -2,5 +2,5 @@
 matches_cl.csv
 players_cl.csv
 world_cup_cl.csv
-.requirements.in
-.requirements-dev.in
+.requirements*.in
+
