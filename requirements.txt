@@ -1,6 +1,2 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-Cufflinks
+-c requirements-dev.txt
+jupyter notebook

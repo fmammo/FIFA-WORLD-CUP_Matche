@@ -1,4 +1,4 @@
-pandas   version
+pandas   
 numpy
 matplotlib
 seaborn
